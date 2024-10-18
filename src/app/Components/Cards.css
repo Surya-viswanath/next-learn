@@ -1,0 +1,28 @@
+.head{
+    font-size:18px;
+}
+.card{
+    width:18rem;
+    margin: 5px;
+    padding: 5px;
+   background-color:  #f5ecd5;
+    
+}
+.main{
+    display: flex;
+    overflow-x: hidden;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.para{
+    font-size: 14px;
+   
+}
+.button{
+    background-color:#330906 ;
+    border:none;
+ 
+    font-size: 14px;
+    align-items: center;
+   
+}
